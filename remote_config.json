@@ -1,9 +1,9 @@
 {
   "app_update": {
-    "latest_version_code": 2,
-    "latest_version_name": "1.1.0",
+    "latest_version_code": 3,
+    "latest_version_name": "1.2.0",
     "force_update": false,
-    "update_message": "A new version of Global Peace app is available with improved UI and more branch details!",
+    "update_message": "A new version of Global Peace app is available with multiple banner support!",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.globalpeace.app"
   },
   "global_notification": {
@@ -27,11 +27,18 @@
       "content": "Please note that Japanese classes will be suspended on March 20th due to a local festival. Classes will resume on March 21st."
     }
   ],
-  "promotional_banner": {
-    "image_url": "https://globalpeace.com.np/wp-content/uploads/2026/03/banner1.jpg",
-    "target_url": "https://globalpeace.com.np/offers/",
-    "is_active": true
-  },
+  "promotional_banners": [
+    {
+      "image_url": "https://globalpeace.com.np/wp-content/uploads/2026/03/study-in-japan-temp-copy.jpg",
+      "target_url": "https://www.facebook.com/photo/?fbid=1530194895781140",
+      "is_active": true
+    },
+    {
+      "image_url": "https://scontent.fbir7-1.fna.fbcdn.net/v/t39.30808-6/650737630_1528172769316686_2208223210061705497_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=zITuHV79XQYQ7kNvwFHgIxA&_nc_oc=Adr7BqvBw17EawLrCgPmBaweSt8sOPO_RhvLy2BXIPbF-UUmsa_NT4NLBakw9xhsaA8&_nc_zt=23&_nc_ht=scontent.fbir7-1.fna&_nc_gid=BLzYNUdzobjtuJJBqCiYmw&_nc_ss=8&oh=00_AfyV61_NoR4i_ggv_dE0Dtn42sbsXu5ckjD4fmKHrReHuA&oe=69C0C4C7",
+      "target_url": "https://www.facebook.com/photo?fbid=1528172765983353",
+      "is_active": true
+    }
+  ],
   "upcoming_events": [
     {
       "id": 1,
