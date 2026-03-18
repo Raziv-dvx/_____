@@ -1,0 +1,99 @@
+{
+  "app_update": {
+    "latest_version_code": 2,
+    "latest_version_name": "1.1.0",
+    "force_update": false,
+    "update_message": "A new version of Global Peace app is available with improved UI and more branch details!",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.globalpeace.app"
+  },
+  "global_notification": {
+    "show_alert": true,
+    "title": "Welcome to Global Peace!",
+    "message": "Check out our new branches section with interactive maps and contact info.",
+    "action_url": "https://globalpeace.com.np/news-blogs/",
+    "action_text": "Read More"
+  },
+  "dynamic_notices": [
+    {
+      "id": 101,
+      "title": "Upcoming IELTS Mock Test",
+      "date": "2026-03-25",
+      "content": "Our next IELTS Mock Test is scheduled for next Wednesday at 10 AM. Registration is now open for all students at all branches."
+    },
+    {
+      "id": 102,
+      "title": "Japanese Class Holiday",
+      "date": "2026-03-20",
+      "content": "Please note that Japanese classes will be suspended on March 20th due to a local festival. Classes will resume on March 21st."
+    }
+  ],
+  "promotional_banner": {
+    "image_url": "https://globalpeace.com.np/wp-content/uploads/2026/03/banner1.jpg",
+    "target_url": "https://globalpeace.com.np/offers/",
+    "is_active": true
+  },
+  "upcoming_events": [
+    {
+      "id": 1,
+      "title": "Free Japanese Seminar",
+      "date": "2026-04-05",
+      "location": "Birtamode Main Hall"
+    },
+    {
+      "id": 2,
+      "title": "Korean Language Proficiency Test (EPS)",
+      "date": "2026-04-12",
+      "location": "All Branches"
+    }
+  ],
+  "branches": [
+    {
+      "id": 1,
+      "name": "Birtamode (Main)",
+      "cover_url": "https://qr.globalpeace.com.np/images/banner.jpeg",
+      "website_url": "https://globalpeace.com.np/birtamod/",
+      "map_url": "https://maps.app.goo.gl/5mcrpVHjxXi6PqAB7",
+      "phone": "+9779801061988",
+      "whatsapp_url": "https://wa.me/9779820536214",
+      "email": "info@globalpeace.com.np",
+      "facebook_url": "https://www.facebook.com/globalpeaceiea",
+      "tiktok_url": "https://www.tiktok.com/@globalpeaceiea"
+    },
+    {
+      "id": 2,
+      "name": "Global Peace Urlabari",
+      "cover_url": "https://qr.globalpeace.com.np/images/urlabari.jpg",
+      "website_url": "https://globalpeace.com.np/urlabari",
+      "map_url": "https://maps.app.goo.gl/wbNtRHSdXGxmZTUk7",
+      "phone": "+977 9820536215",
+      "whatsapp_url": "https://wa.me/9779820536215",
+      "email": "globalpeaceurlabari@gmail.com",
+      "facebook_url": "https://www.facebook.com/globalpeaceurl",
+      "tiktok_url": "https://www.tiktok.com/@globalpeaceurlabari"
+    },
+    {
+      "id": 3,
+      "name": "Global Peace Itahari",
+      "cover_url": "https://qr.globalpeace.com.np/images/itahari.jpeg",
+      "website_url": "https://globalpeace.com.np/itahari",
+      "map_url": "https://maps.app.goo.gl/rMozZfPb7UYWUdjA7",
+      "phone": "+977 9820536216",
+      "whatsapp_url": "https://wa.me/9779820536216",
+      "email": "itahariglobalpeace@gmail.com",
+      "facebook_url": "https://www.facebook.com/globalpeaceitahari",
+      "tiktok_url": "https://www.tiktok.com/@globalpeaceitahari"
+    },
+    {
+      "id": 4,
+      "name": "Global Peace Damak",
+      "cover_url": "https://qr.globalpeace.com.np/images/itahari.jpeg",
+      "website_url": "https://globalpeace.com.np/damak",
+      "map_url": "https://maps.app.goo.gl/3NAoZr7592NHjDUUA",
+      "phone": "+977 9801061988",
+      "whatsapp_url": "https://wa.me/9779801061988",
+      "email": "globalpeacedamak@gmail.com",
+      "facebook_url": "https://www.facebook.com/globalpeacedamak",
+      "tiktok_url": "https://www.tiktok.com/@globalpeacedamak?_t=ZS-90g6NoVWz2e&_r=1"
+    }
+  ]
+}
