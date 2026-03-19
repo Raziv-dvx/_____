@@ -16,15 +16,15 @@
   "dynamic_notices": [
     {
       "id": 101,
-      "title": "Upcoming IELTS Mock Test",
-      "date": "2026-03-25",
-      "content": "Our next IELTS Mock Test is scheduled for next Wednesday at 10 AM. Registration is now open for all students at all branches."
+      "title": "Damak Branch Opening",
+      "date": "2026-03-19",
+      "content": "Global Peace Damak Branch will be opening soon stay tuned"
     },
     {
       "id": 102,
-      "title": "Japanese Class Holiday",
-      "date": "2026-03-20",
-      "content": "Please note that Japanese classes will be suspended on March 20th due to a local festival. Classes will resume on March 21st."
+      "title": "Global Peace Japanese Meaning",
+      "date": "2026-03-19",
+      "content": "Official Japanese Meaning App is coming soon stay tuned."
     }
   ],
   "promotional_banners": [
@@ -42,15 +42,15 @@
   "upcoming_events": [
     {
       "id": 1,
-      "title": "Free Japanese Seminar",
-      "date": "2026-04-05",
-      "location": "Birtamode Main Hall"
+      "title": "Japanese Seminar",
+      "date": "2026-04-17",
+      "location": "Global Peace Damak Branch"
     },
     {
       "id": 2,
-      "title": "Korean Language Proficiency Test (EPS)",
-      "date": "2026-04-12",
-      "location": "All Branches"
+      "title": "Damak Branch Opening",
+      "date": "Happening Soon",
+      "location": "Global Peace Damak "
     }
   ],
   "branches": [
