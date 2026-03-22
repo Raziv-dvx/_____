@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-03-20T18:00:00Z",
+  "notifications": [
+    {
+      "id": 1,
+      "title": "New Meanings Available",
+      "message": "We have added 50 new words in the Greetings category!",
+      "type": "update"
+    }
+  ]
+}
